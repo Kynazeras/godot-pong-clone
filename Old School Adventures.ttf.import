@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://tmbf0e6qixkl"
+path="res://.godot/imported/Old School Adventures.ttf-e7dcc1a48b8f90a243ef933bd6850579.fontdata"
+
+[deps]
+
+source_file="res://Old School Adventures.ttf"
+dest_files=["res://.godot/imported/Old School Adventures.ttf-e7dcc1a48b8f90a243ef933bd6850579.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}

@@ -1,0 +1,6 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://b670ss1t84sm"]
+
+[ext_resource type="FontFile" uid="uid://tmbf0e6qixkl" path="res://Old School Adventures.ttf" id="1_ti3nd"]
+
+[resource]
+default_font = ExtResource("1_ti3nd")
